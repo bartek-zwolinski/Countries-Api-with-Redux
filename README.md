@@ -31,7 +31,7 @@ npm run dev
 
 ## Application view 🖥
 
-(https://user-images.githubusercontent.com/105802129/212639704-133f2ddf-ce10-44ed-9bc7-8468cb749dbf.png)
+https://user-images.githubusercontent.com/105802129/212639704-133f2ddf-ce10-44ed-9bc7-8468cb749dbf.png
 
 ## Contact
 
